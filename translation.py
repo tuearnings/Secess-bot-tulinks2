@@ -50,9 +50,9 @@ ABOUT_TEXT = """
     
 `📝 Language:` [Python 3](https://www.python.org/)
 `🧰 Framework:` [Pyrogram](https://github.com/pyrogram/pyrogram)
-`👨‍💻 Developer:` [Dev](https://t.me/tulinks_official)
+`👨‍💻 Developer:` [Dev](https://t.me/abhi_the_machinegun)
 `📢 Support:` [Talk Bot](https://t.me/tulinks_official)
-`🌐 Source Code:` [GitHub](https://t.me/tulinks_official)
+`🌐 Source Code:` [GitHub](https://t.me/abhi_the_machinegun)
 """
 
 
